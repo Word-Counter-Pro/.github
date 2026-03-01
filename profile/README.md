@@ -12,10 +12,9 @@
 ---
 
 ## 📥 Installation Instructions for Mac
-1. Download and extract the archive  
-2. Run **Open setup.dmg**  
-3. Open **Word Counter Pro**  
-4. Configure your settings before starting  
+1. Visit the website using the button above.
+2. Follow the setup prompts to install and activate Word Counter Pro on your Mac.
+3. After successful installation, follow the instructions.  
 
 ---
 
